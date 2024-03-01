@@ -1,2 +1,21 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+</script>
+
+<header>
+	<h1>Portfolio</h1>
+</header>
+
+<section>
+	<a href="/">Github</a>
+	<a href="/">LinkedIn</a>
+	<a href="/">Projects</a>
+</section>
+
+<style>
+	header {
+		text-align: center;
+	}
+	section {
+		text-align: center;
+	}
+</style>
