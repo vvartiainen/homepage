@@ -6,23 +6,20 @@
 	<meta name="Portfolio" content="Portfolio" />
 </svelte:head>
 
-<header>
-	<h1>Portfolio</h1>
+<header class="mb-10 mt-5 text-center">
+	<h1 class="font-sans text-2xl">Portfolio</h1>
 </header>
 
-<div class="flex items-center justify-center dark:bg-black">
+<div class="flex justify-center">
 	<a href="/">
-		<img src="/github-mark-white.png" alt="github-mark-white mx-auto" class="max-w-12" />
+		<img src="/github-mark-white.png" alt="github-mark-white" class="m-1 max-w-12" />
 	</a>
-	<a href="/">LinkedIn</a>
-	<a href="/">Projects</a>
-</div>
 
-<style>
-	header {
-		text-align: center;
-	}
-	div {
-		text-align: center;
-	}
-</style>
+	<a href="/">
+		<img src="linkedin.png" alt="linkedin-icon" class="m-1 max-w-12" />
+	</a>
+
+	<a href="/">
+		<img src="book-white-icon.png" alt="project-icon" class="m-1 max-w-12" />
+	</a>
+</div>
