@@ -16,7 +16,7 @@
 <Separator class="my-4" />
 
 <section class="mb-10 flex items-center justify-center font-mono">
-	<div class="w-2/3 gap-5 space-y-8 p-20">
+	<div class="w-1/2 gap-5 space-y-8 p-20">
 		<p>
 			Lorem ipsum dolor sit amet. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
 			aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
@@ -42,11 +42,11 @@
 
 <div class="flex justify-center font-mono">Check out my socials!</div>
 <div class="flex justify-center font-mono">
-	<a href="/">
+	<a href="https://github.com/vvartiainen">
 		<img src="github-mark-white.png" alt="github-mark-white" class="m-1 max-w-12" />
 	</a>
 
-	<a href="/">
+	<a href="https://www.linkedin.com/in/ville-vartiainen-9b1552112/">
 		<img src="linkedin.png" alt="linkedin-icon" class="m-1 max-w-12" />
 	</a>
 
