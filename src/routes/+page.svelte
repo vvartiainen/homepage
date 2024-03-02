@@ -7,8 +7,13 @@
 </svelte:head>
 
 <header class="mb-10 mt-5 text-center">
-	<h1 class="font-sans text-2xl">Portfolio</h1>
+	<p class="font-mono text-5xl font-bold">Portfolio</p>
 </header>
+
+<section class="mb-10 flex justify-center gap-5">
+	<p class="font-mono">Lorem ipsum</p>
+	<p class="font-mono">Doler sit amet vai miteseoli :D</p>
+</section>
 
 <div class="flex justify-center">
 	<a href="/">
