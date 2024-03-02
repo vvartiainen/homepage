@@ -40,17 +40,21 @@
 
 <Separator class="my-4" />
 
-<div class="flex justify-center font-mono">Check out my socials!</div>
+<div class="mb-3 flex justify-center font-mono">Check out my socials!</div>
 <div class="flex justify-center font-mono">
 	<a href="https://github.com/vvartiainen">
-		<img src="github-mark-white.png" alt="github-mark-white" class="m-1 max-w-12" />
+		<img
+			src="github-mark-white.png"
+			alt="github-mark-white"
+			class="m-1 max-w-12 hover:animate-bounce"
+		/>
 	</a>
 
 	<a href="https://www.linkedin.com/in/ville-vartiainen-9b1552112/">
-		<img src="linkedin.png" alt="linkedin-icon" class="m-1 max-w-12" />
+		<img src="linkedin.png" alt="linkedin-icon" class="m-1 max-w-12 hover:animate-bounce" />
 	</a>
 
 	<a href="/">
-		<img src="book-white-icon.png" alt="project-icon" class="m-1 max-w-12" />
+		<img src="book-white-icon.png" alt="project-icon" class="m-1 max-w-12 hover:animate-bounce" />
 	</a>
 </div>
