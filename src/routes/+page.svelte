@@ -1,6 +1,7 @@
 <script>
 	import { Separator } from '$lib/components/ui/separator';
 	import { Button } from '$lib/components/ui/button';
+	import Timeline from '$lib/components/timeline.svelte';
 </script>
 
 <svelte:head>
@@ -45,27 +46,23 @@
 
 <Separator class="my-4" />
 
-<section class="mb-12 mt-20 flex items-center justify-center font-mono">
+<section class="mb-12 mt-16 flex items-center justify-center font-mono">
 	<p id="technologies" class="font-mono text-2xl font-bold text-sky-400">Technologies</p>
 </section>
 
-<section class="mx-auto flex items-center justify-center font-mono">
+<section class="mx-auto mb-12 flex items-center justify-center font-mono">
 	<div class="w-3/5 justify-center text-center">
 		<p>Technology carousel here</p>
 	</div>
 </section>
 
-<section class="mb-12 mt-28 flex items-center justify-center font-mono">
-	<p id="projects" class="font-mono text-2xl font-bold text-sky-400">Projects</p>
-</section>
+<Separator class="my-4" />
 
-<section class="mx-auto flex items-center justify-center font-mono">
-	<div class="w-3/5 justify-center">
-		<p>Project timeline here</p>
-	</div>
-</section>
+<Timeline />
 
-<section class="mb-12 mt-28 flex items-center justify-center font-mono">
+<Separator class="my-4 mt-16" />
+
+<section class="mb-12 mt-16 flex items-center justify-center font-mono">
 	<p class="font-mono text-2xl font-bold text-sky-400">Contact me</p>
 </section>
 
