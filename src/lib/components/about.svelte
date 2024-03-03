@@ -8,6 +8,6 @@
 		<p>On this site you can find my professional portfolio and some personal projects.</p>
 	</div>
 	<div class="md:w-1/3:flex items-center justify-center sm:block">
-		<img src="/profile-pic.png" alt="profile-pic" class="max-h-60 max-w-60 rounded-full" />
+		<img src="/profilepic.jpeg" alt="profile-pic" class="max-h-60 max-w-60 rounded-full" />
 	</div>
 </section>
