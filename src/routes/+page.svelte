@@ -15,7 +15,7 @@
 
 <Nav />
 
-<Separator class="mb-16 mt-6" />
+<Separator id="about" class="mb-16 mt-6" />
 
 <About />
 

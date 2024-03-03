@@ -7,7 +7,7 @@
 </header>
 
 <div class="justify-left mb-5 flex pl-11">
-	<a href="/"><Button variant="link" class="underline-offset-8">ABOUT</Button></a>
+	<a href="#about"><Button variant="link" class="underline-offset-8">ABOUT</Button></a>
 	<a href="#tech">
 		<Button variant="link" class="underline-offset-8">TECHNOLOGIES</Button>
 	</a>
