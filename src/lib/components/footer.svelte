@@ -11,10 +11,6 @@
 	<a href="https://www.linkedin.com/in/ville-vartiainen-9b1552112/">
 		<img src="linkedin.png" alt="linkedin-icon" class="m-1 max-w-12 hover:animate-bounce" />
 	</a>
-
-	<a href="/">
-		<img src="book-white-icon.png" alt="project-icon" class="m-1 max-w-12 hover:animate-bounce" />
-	</a>
 </div>
 <div class="mb-5 mt-14 flex justify-center font-mono text-sm font-extralight italic">
 	Created this portfolio using Svelte & TailwindCSS, they were great!
