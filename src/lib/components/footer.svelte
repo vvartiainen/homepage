@@ -20,5 +20,5 @@
 	Created this portfolio using Svelte & TailwindCSS, they were great!
 </div>
 <div class="mb-5 flex justify-center font-mono text-sm font-extralight italic">
-	<a href="/">Source code available at github.com/vvartiainen</a>
+	<a href="/">Source code available at github.com/vvartiainen/portfolio-page</a>
 </div>
