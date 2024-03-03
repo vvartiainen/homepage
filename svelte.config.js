@@ -7,7 +7,10 @@ export default {
       pages: 'build',
       assets: 'build',
       fallback: undefined,
-    })
+    }),
+    paths: {
+      base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
+    }
   },
   preprocess: [
     preprocess({
