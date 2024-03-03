@@ -1,7 +1,6 @@
 <script>
 	import { Separator } from '$lib/components/ui/separator';
 	import Timeline from '$lib/components/timeline.svelte';
-	import Footer from '$lib/components/footer.svelte';
 	import ContactMe from '$lib/components/contactme.svelte';
 	import Tech from '$lib/components/tech.svelte';
 	import About from '$lib/components/about.svelte';
@@ -30,7 +29,3 @@
 <Separator class="mb-16 mt-16" />
 
 <ContactMe />
-
-<Separator class="mt-16" />
-
-<Footer />
