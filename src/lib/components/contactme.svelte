@@ -5,7 +5,9 @@
 	<p class="font-mono font-bold">ville@vartiainen.io</p>
 </section>
 
-<div class="mb-5 mt-10 flex justify-center font-mono text-xl">Check out my socials!</div>
+<div class="mb-5 mt-10 flex justify-center font-mono text-xl font-extrabold text-sky-400">
+	Check out my socials!
+</div>
 <div class="mb-10 flex justify-center gap-x-3 font-mono">
 	<a href="https://github.com/vvartiainen">
 		<img
