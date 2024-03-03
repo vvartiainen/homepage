@@ -12,12 +12,8 @@
 				<p class="text-lg font-extrabold text-neutral-500 dark:text-neutral-300">01.07.2021</p>
 			</div>
 			<div class="mb-6 ml-4 mt-2">
-				<h4 class="mb-1.5 text-xl font-semibold text-sky-400">Title of section 1</h4>
-				<p class="mb-3 text-neutral-500 dark:text-neutral-300">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi
-					semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis
-					ligula in sodales vehicula.
-				</p>
+				<h4 class="mb-1.5 text-xl font-semibold text-sky-400">Loihde Oy</h4>
+				<p class="mb-3 text-neutral-500 dark:text-neutral-300">Software Consultant</p>
 			</div>
 		</li>
 
@@ -27,11 +23,8 @@
 				<p class="text-lg font-extrabold text-neutral-500 dark:text-neutral-300">13.09.2021</p>
 			</div>
 			<div class="mb-6 ml-4 mt-2">
-				<h4 class="mb-1.5 text-xl font-semibold text-sky-400">Title of section 2</h4>
-				<p class="mb-3 text-neutral-500 dark:text-neutral-300">
-					Libero expedita explicabo eius fugiat quia aspernatur autem laudantium error architecto
-					recusandae natus sapiente sit nam eaque, consectetur porro molestiae ipsam an deleniti.
-				</p>
+				<h4 class="mb-1.5 text-xl font-semibold text-sky-400">CGI</h4>
+				<p class="mb-3 text-neutral-500 dark:text-neutral-300">Software Professional</p>
 			</div>
 		</li>
 
@@ -41,12 +34,8 @@
 				<p class="text-lg font-extrabold text-neutral-500 dark:text-neutral-300">25.11.2021</p>
 			</div>
 			<div class="ml-4 mt-2">
-				<h4 class="mb-1.5 text-xl font-semibold text-sky-400">Title of section 3</h4>
-				<p class="mb-3 text-neutral-500 dark:text-neutral-300">
-					Voluptatibus temporibus esse illum eum aspernatur, fugiat suscipit natus! Eum corporis
-					illum nihil officiis tempore. Excepturi illo natus libero sit doloremque, laborum
-					molestias rerum pariatur quam ipsam necessitatibus incidunt, explicabo.
-				</p>
+				<h4 class="mb-1.5 text-xl font-semibold text-sky-400">Kyyti Group Oy</h4>
+				<p class="mb-3 text-neutral-500 dark:text-neutral-300">Software Engineer</p>
 			</div>
 		</li>
 	</ol>
