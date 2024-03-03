@@ -12,23 +12,15 @@
 	<Carousel.Root class="w-80" opts={{ loop: true }}>
 		<Carousel.Content>
 			<Carousel.Item>
+				<img src="node.png" alt="node" />
 				<div class="p-1 text-center">
-					<p class="text-2xl">NodeJS</p>
+					<p class="text-2xl font-extrabold">NodeJS</p>
 				</div>
 			</Carousel.Item>
 			<Carousel.Item>
+				<img src="postgres.png" alt="postgres" />
 				<div class="p-1 text-center">
-					<p class="text-2xl">PostgreSQL</p>
-				</div>
-			</Carousel.Item>
-			<Carousel.Item>
-				<div class="p-1 text-center">
-					<p class="text-2xl">Svelte</p>
-				</div>
-			</Carousel.Item>
-			<Carousel.Item>
-				<div class="p-1 text-center">
-					<p class="text-2xl">TailwindCSS</p>
+					<p class="text-2xl font-extrabold">PostgreSQL</p>
 				</div>
 			</Carousel.Item>
 		</Carousel.Content>
