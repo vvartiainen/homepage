@@ -1,9 +1,8 @@
 <section class="mb-10 flex items-center justify-center font-mono">
 	<div class="w-3/5 justify-center gap-5 space-y-8 p-20">
-		<p>My name is Ville Vartiainen and I'm a software developer and a technology enthusiast.</p>
 		<p>
-			I've been fiddling with computers since I was little and nowadays I'm working as a software
-			developer consultant with a back-end focus.
+			My name is <span class="font-bold text-sky-400">Ville Vartiainen</span>, and I'm a technology
+			enthusiast with experience in software development and architecture.
 		</p>
 		<p>On this site you can find my professional portfolio and some personal projects.</p>
 	</div>
