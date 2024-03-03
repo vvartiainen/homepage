@@ -42,5 +42,18 @@
 				<p class="mb-3 text-neutral-500 dark:text-neutral-300">Software Engineer</p>
 			</div>
 		</li>
+
+		<li>
+			<div class="flex-start flex items-center pt-2">
+				<div class="-ml-[5px] mr-3 h-[12px] w-[12px] rounded-full bg-sky-500"></div>
+				<p class="text-lg font-extrabold text-neutral-500 dark:text-neutral-300">
+					06/2015 - 08/2015
+				</p>
+			</div>
+			<div class="ml-4 mt-2">
+				<h4 class="mb-1.5 text-xl font-semibold text-sky-400">theFIRMA</h4>
+				<p class="mb-3 text-neutral-500 dark:text-neutral-300">Software Developer Trainee</p>
+			</div>
+		</li>
 	</ol>
 </section>
