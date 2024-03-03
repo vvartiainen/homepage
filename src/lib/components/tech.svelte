@@ -8,7 +8,7 @@
 	</p>
 </section>
 
-<section class="mb-16 mt-32 flex items-center justify-center font-mono">
+<section class="mb-16 mt-24 flex items-center justify-center font-mono">
 	<Carousel.Root class="w-80" opts={{ loop: true }}>
 		<Carousel.Content>
 			<Carousel.Item>
