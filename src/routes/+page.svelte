@@ -7,11 +7,6 @@
 	import Nav from '$lib/components/nav.svelte';
 </script>
 
-<svelte:head>
-	<title>Portfolio</title>
-	<meta name="Portfolio - Ville Vartiainen" content="Portfolio - Ville Vartiainen" />
-</svelte:head>
-
 <Nav />
 
 <Separator id="about" class="mb-16 mt-6" />
