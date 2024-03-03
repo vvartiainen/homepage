@@ -1,6 +1,6 @@
 <script></script>
 
-<section class="mb-12 mt-16 flex items-center justify-center font-mono">
+<section class="mb-16 mt-16 flex items-center justify-center font-mono">
 	<p id="projects" class="font-mono text-2xl font-bold text-sky-400">Projects and work I've done</p>
 </section>
 
