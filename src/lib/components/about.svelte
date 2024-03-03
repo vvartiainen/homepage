@@ -1,4 +1,4 @@
-<section class="mb-10 text-left font-mono md:flex md:items-center md:justify-center">
+<section class="mb-10 text-center font-mono md:flex md:items-center md:justify-center md:text-left">
 	<div class="space-y-6 pl-10 pr-10 md:w-3/5 md:p-20">
 		<p>
 			My name is <span class="font-bold text-sky-400">Ville Vartiainen</span>, and I'm a technology

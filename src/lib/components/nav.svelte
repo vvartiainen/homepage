@@ -1,15 +1,11 @@
 <script>
-	import { Button } from '$lib/components/ui/button';
 </script>
 
-<header class="pl-14 pt-10 text-left font-mono font-bold">
-	<p class="mb-5 text-4xl font-bold text-sky-400">vartiainen.io</p>
-</header>
-
-<div class="justify-left mb-5 flex pl-11">
-	<a href="#about"><Button variant="link" class="underline-offset-8">ABOUT</Button></a>
-	<a href="#tech">
-		<Button variant="link" class="underline-offset-8">TECHNOLOGIES</Button>
-	</a>
-	<a href="#projects"><Button variant="link" class="underline-offset-8">PROJECTS</Button></a>
+<div class="mb-5 ml-6 mt-10 text-center font-mono font-extrabold md:text-left">
+	<p class="mb-5 ml-2 text-2xl text-sky-400 md:text-4xl">vartiainen.io</p>
+	<div class="md:flex md:text-right">
+		<a href="#about"><p class="m-3">ABOUT</p></a>
+		<a href="#tech"><p class="m-3">TECHNOLOGIES</p></a>
+		<a href="#projects"><p class="m-3">PROJECTS</p></a>
+	</div>
 </div>

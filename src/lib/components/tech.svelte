@@ -2,14 +2,14 @@
 	import * as Carousel from '$lib/components/ui/carousel';
 </script>
 
-<section class="mb-12 mt-16 flex items-center justify-center font-mono">
-	<p id="technologies" class="font-mono text-2xl font-bold text-sky-400">
-		Technologies I'm most familiar with...
-	</p>
+<section
+	class="b-12 mt-16 flex justify-center pl-14 pr-14 text-center font-mono text-xl font-bold text-sky-400 md:text-2xl"
+>
+	<p id="technologies" class="">Technologies I'm most familiar with...</p>
 </section>
 
 <section class="mb-16 mt-24 flex items-center justify-center font-mono">
-	<Carousel.Root class="w-80" opts={{ loop: true }}>
+	<Carousel.Root class="w-1/2 md:w-1/3" opts={{ loop: true }}>
 		<Carousel.Content>
 			<Carousel.Item>
 				<img src="node.png" alt="node" />
@@ -29,7 +29,9 @@
 	</Carousel.Root>
 </section>
 
-<section class="mb-12 mt-16 flex items-center justify-center font-mono">
+<section
+	class="mb-12 mt-16 flex justify-center pl-14 pr-14 text-center font-mono text-xl md:text-2xl"
+>
 	<p id="technologies" class="font-mono text-2xl font-bold text-sky-400">
 		...and many more I didn't bother to mention
 	</p>

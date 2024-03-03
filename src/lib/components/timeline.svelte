@@ -1,7 +1,7 @@
 <script></script>
 
-<section class="mb-16 flex items-center justify-center font-mono">
-	<p class="font-mono text-2xl font-bold text-sky-400">Projects and work I've done</p>
+<section class="mb-16 flex justify-center pl-14 pr-14 text-center font-mono">
+	<p class="text-xl font-bold text-sky-400 md:text-2xl">Projects and work I've done</p>
 </section>
 
 <section class="flex justify-center font-mono md:pl-64 md:pr-64">
