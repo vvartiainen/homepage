@@ -19,11 +19,11 @@
 
 <About />
 
-<Separator class="my-4" />
+<Separator id="tech" class="my-4" />
 
 <Tech />
 
-<Separator class="my-4" />
+<Separator id="projects" class="my-4" />
 
 <Timeline />
 

@@ -8,7 +8,7 @@
 
 <div class="justify-left mb-5 flex pl-11">
 	<a href="/"><Button variant="link" class="underline-offset-8">ABOUT</Button></a>
-	<a href="#technologies">
+	<a href="#tech">
 		<Button variant="link" class="underline-offset-8">TECHNOLOGIES</Button>
 	</a>
 	<a href="#projects"><Button variant="link" class="underline-offset-8">PROJECTS</Button></a>
