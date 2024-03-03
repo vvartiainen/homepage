@@ -1,4 +1,4 @@
-<section class=" mt-16 flex items-center justify-center font-mono">
+<section class="flex items-center justify-center font-mono">
 	<p id="about" class="font-mono text-2xl font-bold text-sky-400">About me</p>
 </section>
 

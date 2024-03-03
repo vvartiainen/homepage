@@ -15,22 +15,22 @@
 
 <Nav />
 
-<Separator class="my-4" />
+<Separator class="mb-16 mt-6" />
 
 <About />
 
-<Separator id="tech" class="my-4" />
+<Separator id="tech" class="mb-16 mt-16" />
 
 <Tech />
 
-<Separator id="projects" class="my-4" />
+<Separator id="projects" class="mb-16 mt-16" />
 
 <Timeline />
 
-<Separator class="my-4 mt-16" />
+<Separator class="mb-16 mt-16" />
 
 <ContactMe />
 
-<Separator class="my-4 mt-36" />
+<Separator class="mt-16" />
 
 <Footer />
