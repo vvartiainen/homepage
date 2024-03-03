@@ -4,7 +4,7 @@
 	<p id="projects" class="font-mono text-2xl font-bold text-sky-400">Projects</p>
 </section>
 
-<section class="flex pl-36 pr-36 font-mono">
+<section class="flex pl-12 pr-12 font-mono">
 	<ol class="border-l-4 border-sky-900">
 		<li>
 			<div class="flex-start flex items-center pt-3">
