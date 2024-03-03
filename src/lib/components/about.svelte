@@ -1,7 +1,3 @@
-<section class="flex items-center justify-center font-mono">
-	<p id="about" class="font-mono text-2xl font-bold text-sky-400">About me</p>
-</section>
-
 <section class="mb-10 flex items-center justify-center font-mono">
 	<div class="w-3/5 justify-center gap-5 space-y-8 p-20">
 		<p>My name is Ville Vartiainen and I'm a software developer and a technology enthusiast.</p>
