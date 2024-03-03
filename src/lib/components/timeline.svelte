@@ -4,7 +4,7 @@
 	<p class="font-mono text-2xl font-bold text-sky-400">Projects and work I've done</p>
 </section>
 
-<section class="pl-12 pr-12 font-mono md:pl-64 md:pr-64">
+<section class="flex justify-center font-mono md:pl-64 md:pr-64">
 	<ol class="border-l-4 border-sky-900">
 		<li>
 			<div class="flex-start flex items-center pt-3">
