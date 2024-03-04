@@ -9,7 +9,7 @@
 </section>
 
 <section class="mb-16 mt-24 flex items-center justify-center font-mono">
-	<Carousel.Root class="w-1/2 md:w-1/3" opts={{ loop: true }}>
+	<Carousel.Root class="max-h-sm w-1/2 max-w-sm md:w-1/3" opts={{ loop: true }}>
 		<Carousel.Content>
 			<Carousel.Item>
 				<img src="node.png" alt="node" />
@@ -32,7 +32,7 @@
 <section
 	class="mb-12 mt-16 flex justify-center pl-14 pr-14 text-center font-mono text-xl md:text-2xl"
 >
-	<p id="technologies" class="font-mono text-2xl font-bold text-sky-400">
+	<p id="technologies" class="font-mono font-bold text-sky-400">
 		...and many more I didn't bother to mention
 	</p>
 </section>

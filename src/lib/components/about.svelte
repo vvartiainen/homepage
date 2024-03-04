@@ -1,4 +1,6 @@
-<section class="mb-10 text-center font-mono md:flex md:items-center md:justify-center md:text-left">
+<section
+	class="mb-10 text-center font-mono md:flex md:items-center md:justify-center md:text-left md:text-xl lg:text-2xl"
+>
 	<div class="space-y-6 pl-10 pr-10 md:w-3/5 md:p-20">
 		<p>
 			My name is <span class="font-bold text-sky-400">Ville Vartiainen</span>, and I'm a technology
@@ -6,7 +8,7 @@
 		</p>
 		<p>On this site you can find my professional portfolio and some personal projects.</p>
 	</div>
-	<div class="flex items-center justify-center pt-10 md:w-1/3">
-		<img src="profilepic.png" alt="profile-pic" class="max-h-60 max-w-60 rounded-full" />
+	<div class="flex max-w-md justify-center pt-10 md:w-1/3">
+		<img src="profilepic.png" alt="profile-pic" class=" items-center rounded-full" />
 	</div>
 </section>
