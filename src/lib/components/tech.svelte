@@ -11,24 +11,24 @@
 <section class="mb-16 mt-24 flex items-center justify-center font-mono">
 	<Carousel.Root class="max-h-sm w-1/2 max-w-sm md:w-1/3" opts={{ loop: true }}>
 		<Carousel.Content>
-			<Carousel.Item class="flex flex-col justify-center items-center">
+			<Carousel.Item class="flex flex-col items-center justify-center">
 				<img src="node.png" alt="node" />
 			</Carousel.Item>
-			<Carousel.Item class="flex flex-col justify-center items-center">
+			<Carousel.Item class="flex flex-col items-center justify-center">
 				<img src="postgres.png" alt="postgres" />
 				<div class="p-1 text-center">
 					<p class="text-2xl font-extrabold">PostgreSQL</p>
 				</div>
 			</Carousel.Item>
-			<Carousel.Item class="flex flex-col justify-center items-center">
+			<Carousel.Item class="flex flex-col items-center justify-center">
 				<img src="aws.png" alt="aws" />
 			</Carousel.Item>
-			<Carousel.Item class="flex flex-col justify-center items-center">
+			<Carousel.Item class="flex flex-col items-center justify-center">
 				<img src="golang.png" alt="golang" />
 			</Carousel.Item>
-			<Carousel.Item class="flex flex-col justify-center items-center">
+			<Carousel.Item class="flex flex-col items-center justify-center">
 				<img src="react.png" alt="react" />
-				<div class="p-1 mt-4 text-center">
+				<div class="mt-4 p-1 text-center">
 					<p class="text-2xl font-extrabold">React</p>
 				</div>
 			</Carousel.Item>
