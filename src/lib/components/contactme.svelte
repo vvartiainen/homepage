@@ -32,5 +32,5 @@
 <div
 	class="mb-5 mt-8 flex justify-center pl-14 pr-14 text-center font-mono text-sm font-extralight italic"
 >
-	<a href="/">Source code available at github.com/vvartiainen/portfolio-page</a>
+	<a href="https://github.com/vvartiainen/homepage">Source code available at Github</a>
 </div>
